@@ -7,3 +7,7 @@ flags:
       name: test
       type: VARIANT_FLAG_TYPE
       enabled: false
+    - key: boolean-test
+      name: boolean test
+      type: BOOLEAN_FLAG_TYPE
+      enabled: false
