@@ -11,3 +11,7 @@ flags:
       name: boolean test
       type: BOOLEAN_FLAG_TYPE
       enabled: false
+segments:
+    - key: Collections
+      name: Collections
+      match_type: ALL_MATCH_TYPE
