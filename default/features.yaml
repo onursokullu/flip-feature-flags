@@ -15,3 +15,6 @@ segments:
     - key: Collections
       name: Collections
       match_type: ALL_MATCH_TYPE
+    - key: Accounting
+      name: Accounting
+      match_type: ALL_MATCH_TYPE
