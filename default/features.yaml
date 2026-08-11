@@ -8,6 +8,6 @@ flags:
       type: VARIANT_FLAG_TYPE
       enabled: false
     - key: boolean-test
-      name: boolean test
+      name: boolean testttt
       type: BOOLEAN_FLAG_TYPE
       enabled: false
